@@ -64,6 +64,8 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - assets/images/pizza.jpg
+    - assets/images/restaurant.png
+    - assets/images/background.webp
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
